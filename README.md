@@ -1,5 +1,5 @@
 ![wave](wave.gif)
-
+![sigrid](https://media.giphy.com/media/9rgh9Z7w7C54bNaBgR/giphy.gif)
 <!--
 **roicort/roicort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
