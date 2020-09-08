@@ -1,4 +1,4 @@
-![wave](https://roicort.github.io/images/wave.gif)
+![wave](https://roicort.github.io/images/landing/wave.gif)
 <!--
 **roicort/roicort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
