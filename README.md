@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://roicort.github.io">![link]("https://roicort.github.io/images/wave.gif")</a>
+<a href="https://roicort.github.io">
+![link]("https://roicort.github.io/images/wave.gif")
+</a>
