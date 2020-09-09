@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://roicort.github.io">
-    <img alt="Qries" src="https://roicort.github.io/images/wave.gif">
+    <img src="https://roicort.github.io/images/wave.gif">
 </a>
