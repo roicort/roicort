@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://roicort.github.io">
-![link](https://roicort.github.io/images/wave.gif)
-</a>
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://roicort.github.io/images/wave.gif)](https://roicort.github.io)
