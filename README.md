@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://roicort.github.io">
-    <img src="https://roicort.github.io/images/wave.gif">
+    ![link]("https://roicort.github.io/images/wave.gif")
 </a>
