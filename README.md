@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-=======
-![wave](https://roicort.github.io/images/landing/wave.gif)
->>>>>>> 63b5c46c90b9e5e9dd5adaf75fec53269e007574
 <!--
 **roicort/roicort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://roicort.github.io">
-    <img alt="Qries" src="https://roicort.github.io/images/wave.gif">
-</a>
+![GIF](https://roicort.github.io/images/wave.gif)
