@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://roicort.github.io">
-![link]("https://roicort.github.io/images/wave.gif")
+![link](https://roicort.github.io/images/wave.gif)
 </a>
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
