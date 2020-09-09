@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Foo](https://roicort.github.io/images/wave.gif)](https://roicort.github.io)
+[![link](https://roicort.github.io/images/wave.gif)](https://roicort.github.io)
