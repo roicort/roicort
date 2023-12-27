@@ -1,6 +1,6 @@
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
-![](https://openprocessing.org/sketch/2133523)
+<p><img align="left" src="https://openprocessing.org/sketch/2133523" alt="roicort" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
 
