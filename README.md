@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roicort&" alt="roicort" /></p>
 
-[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roicort" alt="roicort" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roicort&theme=oldie&no-frame=true&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
