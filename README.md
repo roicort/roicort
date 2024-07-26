@@ -1,8 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
-
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
-<h3>Hi!</h3>
+<h3>Hi!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
 
 My name is Rodrigo Cortez, I'm a Data Scientist 🧪 currently studying my master in AI 🤖.
 
