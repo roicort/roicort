@@ -4,14 +4,14 @@
 
 <h3>Hi!</h3>
 
-My name is Rodrigo Cortez, I'm a Data Scientist currently studying my master in AI.
+My name is Rodrigo Cortez, I'm a Data Scientist 🧪 currently studying my master in AI 🤖.
 
 Formerly I coded for Public Good at @gobiernodigitalmonterrey (@SigaMty) where I:
 
-  * Created the Data Governance Framework for Monterrey City
-  * I participated in Open Government Projects
-  * Coded [🐶 Huellitas Monterrey](huellitas.monterrey.gob.mx)
-  * Helped the city obtain WWC certification.
+  * 📊 Created the Data Governance Framework for Monterrey City
+  * 🏛️ I participated in Open Government Projects
+  * 🐶 Coded [Huellitas Monterrey](https://huellitas.monterrey.gob.mx) 
+  * 🏙️ Helped the city obtain WWC certification.
 
 In my spare time I like to code generative art @unknowable 
 
