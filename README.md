@@ -1,11 +1,5 @@
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&layout=compact" alt="roicort" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en" alt="roicort" /></p>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -19,3 +13,11 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&layout=compact" alt="roicort" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en" alt="roicort" /></p>
+
