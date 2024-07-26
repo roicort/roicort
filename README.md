@@ -2,6 +2,19 @@
 
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
+<h3>Hi!</h3>
+
+My name is Rodrigo Cortez, I'm a Data Scientist currently studying my master in AI.
+
+Formerly I coded for Public Good at @gobiernodigitalmonterrey (@SigaMty) where I:
+
+  * Created the Data Governance Framework for Monterrey City
+  * I participated in Open Government Projects
+  * Coded [🐶 Huellitas Monterrey](huellitas.monterrey.gob.mx)
+  * Helped the city obtain WWC certification.
+
+In my spare time I like to code generative art @unknowable 
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
