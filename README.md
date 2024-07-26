@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
+
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
 <h3>Things I code with</h3>
@@ -15,7 +17,7 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&layout=compact" alt="roicort" /></p>
 
