@@ -27,7 +27,7 @@ In my spare time I like to code generative art @unknowable
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
 
 
