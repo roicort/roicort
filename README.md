@@ -28,7 +28,7 @@ In my spare time I like to code generative art @unknowable
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en&theme=radical" alt="roicort" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&layout=compact" alt="roicort" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&theme=radical" alt="roicort" /></p>
 
 
 
