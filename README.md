@@ -3,15 +3,16 @@
 <h3>Hey, hi, hello!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
 
 My name is Rodrigo Cortez, I'm a Data Scientist 🧪 currently studying my master in AI 🤖.
+Currently researching Entropic Asociative Memory and Natural Languaje Processing. 
 
 Formerly I coded for Public Good at @gobiernodigitalmonterrey (@SigaMty) where I:
 
-  * 📊 Created the Data Governance Framework for Monterrey City
-  * 🏛️ I participated in Open Government Projects
-  * 🐶 Coded [Huellitas Monterrey](https://huellitas.monterrey.gob.mx) 
-  * 🏙️ Helped the city obtain WWC certification.
+  - 📊 Created the Data Governance Framework for Monterrey City
+  - 🏙️ Helped the city obtain WWC certification.
+  - 🏛️ I participated in Open Government Projects
+  - 🐶 Coded [Huellitas Monterrey](https://huellitas.monterrey.gob.mx) 
 
-In my spare time I like to code generative art @unknowable 
+In my spare time I like to code [generative art](https://openprocessing.org/user/233138/)
 
 <h3>Technologies I love</h3>
 
