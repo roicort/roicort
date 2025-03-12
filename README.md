@@ -4,7 +4,7 @@
 
 I'm **Rodrigo Cortez**, a Data Scientist 🧪 currently pursuing a master's in AI 🤖, researching **Entropic Associative Memory** and **Natural Language Processing**.  
 
-I work to **Leave things better than I found them**. 
+I work to **leave things better than I found them**. 
 
 Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://twitter.com/gobiernodigitalmonterrey) ([@SigaMty](https://twitter.com/SigaMty)), where I:  
 - 📊 Created the **Data Governance Framework** for Monterrey City  
@@ -15,9 +15,13 @@ In my spare time, I enjoy:
 - 🎨 Creating [**generative art**](https://openprocessing.org/user/233138/)  
 - 💻 Contributing to **Open Source**:  
   - Django Liberty  
-  - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)  
-
-🚀 *Debugging problems, compiling solutions. Always learning and iterating towards a better world, one commit at a time*
+  - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)
+ 
+Skills:
+	- Data Science: Data Analysis, Machine Learning, Predictive Modeling.
+	- AI: Natural Language Processing, Deep Learning, Entropic Associative Memory
+	- Programming: Python & JS
+	•	Languages: English (fluent), Spanish (native), French(fluent)
 
 <h3>Technologies I love</h3>
 
@@ -45,4 +49,6 @@ In my spare time, I enjoy:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
 
 
+
+🚀 *Debugging problems, compiling solutions. Always learning and iterating towards a better world, one commit at a time*
 
