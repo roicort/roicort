@@ -6,7 +6,7 @@ I'm **Rodrigo Cortez**, a Data Scientist 🧪 currently pursuing a master's in A
 
 I work to **leave things better than I found them**. 
 
-Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://twitter.com/gobiernodigitalmonterrey) ([@SigaMty](https://twitter.com/SigaMty)), where I:  
+Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://github.com/gobiernodigitalmonterrey), where I:  
 - 📊 Created the **Data Governance Framework** for Monterrey City  
 - 🏙️ Helped the city obtain **WWC certification** & contributed to **Open Government Projects**  
 - 🐶 Built [Huellitas Monterrey](https://huellitas.monterrey.gob.mx)  
