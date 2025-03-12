@@ -1,18 +1,23 @@
 [![GIF](https://raw.githubusercontent.com/roicort/roicort/master/wave.gif)](https://roicort.github.io)
 
-<h3>Hey, hi, hello!</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=roicort&label=Profile%20views&color=0e75b6&style=flat" alt="roicort" /> </p>
+# Hey, hi, hello! 👋  
 
-My name is Rodrigo Cortez, I'm a Data Scientist 🧪 currently studying my master in AI 🤖.
-Currently researching Entropic Asociative Memory and Natural Languaje Processing. 
+I'm **Rodrigo Cortez**, a Data Scientist 🧪 currently pursuing a master's in AI 🤖, researching **Entropic Associative Memory** and **Natural Language Processing**.  
 
-Formerly I coded for Public Good at @gobiernodigitalmonterrey (@SigaMty) where I:
+I work to **Leave things better than I found them**. 
 
-  - 📊 Created the Data Governance Framework for Monterrey City
-  - 🏙️ Helped the city obtain WWC certification.
-  - 🏛️ I participated in Open Government Projects
-  - 🐶 Coded [Huellitas Monterrey](https://huellitas.monterrey.gob.mx) 
+Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://twitter.com/gobiernodigitalmonterrey) ([@SigaMty](https://twitter.com/SigaMty)), where I:  
+- 📊 Created the **Data Governance Framework** for Monterrey City  
+- 🏙️ Helped the city obtain **WWC certification** & contributed to **Open Government Projects**  
+- 🐶 Built [Huellitas Monterrey](https://huellitas.monterrey.gob.mx)  
 
-In my spare time I like to code [generative art](https://openprocessing.org/user/233138/)
+In my spare time, I enjoy:  
+- 🎨 Creating [**generative art**](https://openprocessing.org/user/233138/)  
+- 💻 Contributing to **Open Source**:  
+  - Django Liberty  
+  - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)  
+
+🚀 *Debugging problems, compiling solutions. Always learning and iterating towards a better world, one commit at a time*
 
 <h3>Technologies I love</h3>
 
