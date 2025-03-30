@@ -2,7 +2,7 @@
 
 # Hey, hi, hello! 👋  
 
-I'm **Rodrigo Cortez**, a Data Scientist 🧪 currently pursuing a master's in AI 🤖, researching **Entropic Associative Memory** and **Natural Language Processing**.  
+I'm **[Rodrigo Cortez](https://roicort.github.io)**, a Data Scientist 🧪 currently pursuing a master's in AI 🤖, researching **Natural Language Processing** and **Entropic Associative Memory**.  
 
 I work to **leave things better than I found them**. 
 
@@ -12,16 +12,16 @@ Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://github
 - 🐶 Built [Huellitas Monterrey](https://huellitas.monterrey.gob.mx)  
 
 In my spare time, I enjoy:  
-- 🎨 Creating [**generative art**](https://openprocessing.org/user/233138/)  
+- 🎨 Creating [**generative art**](https://unknowable.xyz)  
 - 💻 Contributing to **Open Source**:  
-  - Django Liberty  
+  - [Django Liberty](https://github.com/nonzero-sum/django-liberty)
   - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)
  
 Skills:
 	- Data Science: Data Analysis, Machine Learning, Predictive Modeling.
-	- AI: Natural Language Processing, Deep Learning, Entropic Associative Memory
+	- AI: Natural Language Processing, Deep Learning
 	- Programming: Python & JS
-	•	Languages: English (fluent), Spanish (native), French(fluent)
+	- Languages: Spanish (native), French(fluent), English (fluent).
 
 <h3>Technologies I love</h3>
 
@@ -51,5 +51,4 @@ Skills:
 </br>
 </br>
 
-🚀 *Debugging problems, compiling solutions. Always learning and iterating towards a better world, one commit at a time*
-
+🚀 *Debugging problems & compiling solutions.* 🚀
