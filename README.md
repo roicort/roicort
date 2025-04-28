@@ -16,6 +16,7 @@ In my spare time, I enjoy:
 - 💻 Contributing to **Open Source**:  
   - [Django Liberty](https://github.com/nonzero-sum/django-liberty)
   - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)
+  - Colab with the Mexican Math Olympiad developing their [website](https://olimpiadamatematicasmichoacan.org) and training alumni.
  
 Skills:
 	- Data Science: Data Analysis, Machine Learning, Predictive Modeling.
