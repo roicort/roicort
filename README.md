@@ -26,6 +26,9 @@ Skills:
 
 <h3>Technologies I love</h3>
 
+Railway!
+[![Sign up on Railway](https://railway.com/button.svg)](https://railway.com?referralCode=welcome)
+
 ![Nuxt](https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
