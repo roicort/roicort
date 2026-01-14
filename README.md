@@ -26,9 +26,6 @@ Skills:
 
 <h3>Technologies I love</h3>
 
-Railway!
-[![Sign up on Railway](https://railway.com/button.svg)](https://railway.com?referralCode=welcome)
-
 ![Nuxt](https://img.shields.io/badge/Nuxt-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -49,10 +46,15 @@ Railway!
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roicort&show_icons=true&locale=en&theme=radical&layout=compact" alt="roicort" /></p>
+<h3>Where I deploy</h3>
+
+<p>I absolutely love Railway! Try it!</p>
+
+[![](https://railway.com/button.svg)](https://railway.com?referralCode=welcome)
+
+ <p>Sign up on Railway and Claim 20$ with this link</p>
 
 </br>
 </br>
 
-🚀 *Debugging problems & compiling solutions.* 🚀
+Currently: *Debugging problems & compiling solutions.* 🚀
