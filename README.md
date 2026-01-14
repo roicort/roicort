@@ -49,7 +49,7 @@ Skills:
 <h3>Where I deploy</h3>
 
 <p>I absolutely love Railway! Try it!</p>
-<p>Sign up on Railway and Claim 20$ with this referal link</p>
+<p>Sign up on Railway and Claim 20$ with this referral link</p>
 
 [![](https://railway.com/button.svg)](https://railway.com?referralCode=welcome)
 
