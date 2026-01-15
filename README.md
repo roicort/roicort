@@ -12,7 +12,8 @@ Previously, I worked on civic tech at [@gobiernodigitalmonterrey](https://github
 - 🐶 Built [Huellitas Monterrey](https://huellitas.monterrey.gob.mx)  
 
 In my spare time, I enjoy:  
-- 🎨 Creating [**generative art**](https://unknowable.xyz)  
+- 🎨 Creating [**generative art**](https://unknowable.xyz)
+- Building pages with Astro. [Showcase](https://astro.build/themes/author/2753)
 - 💻 Contributing to **Open Source**:  
   - [Django Liberty](https://github.com/nonzero-sum/django-liberty)
   - Translated OpenProcessing to [**Spanish**](https://github.com/msawired/OpenProcessing-i18n)
