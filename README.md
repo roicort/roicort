@@ -54,9 +54,9 @@ Skills:
 
 [![](https://railway.com/button.svg)](https://railway.com?referralCode=welcome)
 
-
-
 </br>
 </br>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=roicort&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=crt&theme=crt&color=%23ffffffFF">
 
 Currently: *Debugging problems & compiling solutions.* 🚀
