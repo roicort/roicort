@@ -57,6 +57,11 @@ Skills:
 </br>
 </br>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=roicort&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=crt&theme=crt&color=%23ffffffFF">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=roicort&theme=summer">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://pixel-profile.vercel.app/api/github-stats?username=roicort&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+</picture>
+
 
 Currently: *Debugging problems & compiling solutions.* 🚀
